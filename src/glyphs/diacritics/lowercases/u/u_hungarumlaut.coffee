@@ -1,5 +1,5 @@
 exports.glyphs['u_hungarumlaut'] =
-	unicode: '	ű'
+	unicode: 'ű'
 	glyphName: 'uhungarumlaut'
 	characterName: 'LATIN SMALL LETTER U WITH DOUBLE ACUTE'
 	base: 'u'

@@ -1,5 +1,5 @@
 exports.glyphs['ij'] =
-	unicode: '	ĳ'
+	unicode: 'ĳ'
 	glyphName: 'ij'
 	characterName: 'LATIN SMALL LIGATURE IJ'
 	ot:
