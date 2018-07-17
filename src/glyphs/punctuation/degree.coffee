@@ -13,7 +13,7 @@ exports.glyphs['degree'] =
 	tags: [
 		'all',
 		'latin',
-		'uppercase'
+		'punctuation'
 	]
 	anchors:
 		0:

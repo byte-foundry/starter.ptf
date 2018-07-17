@@ -13,7 +13,7 @@ exports.glyphs['less'] =
 	tags: [
 		'all',
 		'latin',
-		'uppercase'
+		'punctuation'
 	]
 	anchors:
 		0:

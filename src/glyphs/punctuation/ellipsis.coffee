@@ -13,7 +13,7 @@ exports.glyphs['ellipsis'] =
 	tags: [
 		'all',
 		'latin',
-		'uppercase'
+		'punctuation'
 	]
 	anchors:
 		0:

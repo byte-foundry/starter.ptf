@@ -13,7 +13,7 @@ exports.glyphs['summation'] =
 	tags: [
 		'all',
 		'latin',
-		'uppercase'
+		'punctuation'
 	]
 	anchors:
 		0:

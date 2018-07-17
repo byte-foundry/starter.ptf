@@ -13,7 +13,7 @@ exports.glyphs['hyphen'] =
 	tags: [
 		'all',
 		'latin',
-		'uppercase'
+		'punctuation'
 	]
 	anchors:
 		0:

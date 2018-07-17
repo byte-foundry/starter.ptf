@@ -13,7 +13,7 @@ exports.glyphs['notequal'] =
 	tags: [
 		'all',
 		'latin',
-		'uppercase'
+		'punctuation'
 	]
 	anchors:
 		0:

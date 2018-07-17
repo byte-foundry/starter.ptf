@@ -2,45 +2,34 @@ exports.glyphs['perthousand'] =
 	unicode: '‰'
 	glyphName: 'perthousand'
 	characterName: 'PER MILLE SIGN'
-	base: 'fraction'
-	advanceWidth: base.advanceWidth
+	ot:
+		advanceWidth: 100
+	transforms: Array(
+		['skewX',( slant ) / 180 * Math.PI]
+	)
+	parameters:
+		spacingLeft: 50 * spacing + 0
+		spacingRight: 50 * spacing + 0
 	tags: [
 		'all',
 		'latin',
 		'punctuation'
 	]
-	components:
+	anchors:
 		0:
-			base: 'zero_base'
-			transformOrigin: anchors[0].point
-			transforms: Array(
-				[ 'scaleX', 0.52 ], #TODO
-				[ 'scaleY', 0.52 ] #TODO
-				[ 'translateY', 340 - overshoot], #TODO
-				[ 'translateX', 0.48 * (spacing * 50 + 10)], #TODO
-			)
-			parameters:
-				thickness: 1.35 * thickness #TODO
-				width: 0.5 * width + 0.98 #TODO
-		1:
-			base: 'zero_base'
-			transformOrigin: anchors[0].point
-			transforms: Array(
-				[ 'scaleX', 0.52 ], #TODO
-				[ 'scaleY', 0.52 ] #TODO
-				[ 'translateX', Math.max(90, thickness) + 49 + 72 * width], #TODO
-			)
-			parameters:
-				thickness: 1.35 * thickness #TODO
-				width: 0.5 * width + 0.98 #TODO
-		2:
-			base: 'zero_base'
-			transformOrigin: anchors[0].point
-			transforms: Array(
-				[ 'scaleX', 0.52 ], #TODO
-				[ 'scaleY', 0.52 ] #TODO
-				[ 'translateX', Math.max(90, thickness) + 49 + 72 * width + (0.5 * width + 0.5) * 84 + spacingRight + 1.35 * thickness], #TODO
-			)
-			parameters:
-				thickness: 1.35 * thickness #TODO
-				width: 0.5 * width + 0.98 #TODO
+			x: 0
+			y: 0
+	contours:
+		0:
+			skeleton: true
+			closed: false
+			nodes:
+				0:
+					x: 0
+					y: 0
+					typeOut: 'line'
+					expand:
+						width: 0
+						angle: 0
+						distr: 0
+            # TODO

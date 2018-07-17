@@ -13,7 +13,7 @@ exports.glyphs['sterling'] =
 	tags: [
 		'all',
 		'latin',
-		'uppercase'
+		'punctuation'
 	]
 	anchors:
 		0:

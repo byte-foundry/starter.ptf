@@ -13,7 +13,7 @@ exports.glyphs['divide'] =
 	tags: [
 		'all',
 		'latin',
-		'uppercase'
+		'punctuation'
 	]
 	anchors:
 		0:

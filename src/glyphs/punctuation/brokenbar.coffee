@@ -13,7 +13,7 @@ exports.glyphs['brokenbar'] =
 	tags: [
 		'all',
 		'latin',
-		'uppercase'
+		'punctuation'
 	]
 	anchors:
 		0:

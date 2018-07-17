@@ -13,7 +13,7 @@ exports.glyphs['paragraph'] =
 	tags: [
 		'all',
 		'latin',
-		'uppercase'
+		'punctuation'
 	]
 	anchors:
 		0:

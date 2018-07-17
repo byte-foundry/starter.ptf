@@ -13,7 +13,7 @@ exports.glyphs['asciicircum'] =
 	tags: [
 		'all',
 		'latin',
-		'uppercase'
+		'punctuation'
 	]
 	anchors:
 		0:

@@ -13,7 +13,7 @@ exports.glyphs['quotedbl'] =
 	tags: [
 		'all',
 		'latin',
-		'uppercase'
+		'punctuation'
 	]
 	anchors:
 		0:

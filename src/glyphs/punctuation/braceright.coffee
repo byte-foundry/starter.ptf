@@ -13,7 +13,7 @@ exports.glyphs['braceright'] =
 	tags: [
 		'all',
 		'latin',
-		'uppercase'
+		'punctuation'
 	]
 	anchors:
 		0:

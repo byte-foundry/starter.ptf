@@ -13,7 +13,7 @@ exports.glyphs['quoteright'] =
 	tags: [
 		'all',
 		'latin',
-		'uppercase'
+		'punctuation'
 	]
 	anchors:
 		0:

@@ -13,7 +13,7 @@ exports.glyphs['questiondown'] =
 	tags: [
 		'all',
 		'latin',
-		'uppercase'
+		'punctuation'
 	]
 	anchors:
 		0:

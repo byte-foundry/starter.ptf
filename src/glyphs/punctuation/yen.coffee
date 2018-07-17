@@ -13,7 +13,7 @@ exports.glyphs['yen'] =
 	tags: [
 		'all',
 		'latin',
-		'uppercase'
+		'punctuation'
 	]
 	anchors:
 		0:

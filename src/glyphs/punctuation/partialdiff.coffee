@@ -13,7 +13,7 @@ exports.glyphs['partialdiff'] =
 	tags: [
 		'all',
 		'latin',
-		'uppercase'
+		'punctuation'
 	]
 	anchors:
 		0:

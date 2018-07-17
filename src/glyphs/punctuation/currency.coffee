@@ -13,7 +13,7 @@ exports.glyphs['currency'] =
 	tags: [
 		'all',
 		'latin',
-		'uppercase'
+		'punctuation'
 	]
 	anchors:
 		0:

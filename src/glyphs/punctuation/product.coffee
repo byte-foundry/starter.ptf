@@ -13,7 +13,7 @@ exports.glyphs['product'] =
 	tags: [
 		'all',
 		'latin',
-		'uppercase'
+		'punctuation'
 	]
 	anchors:
 		0:

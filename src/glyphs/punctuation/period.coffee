@@ -13,7 +13,7 @@ exports.glyphs['period'] =
 	tags: [
 		'all',
 		'latin',
-		'uppercase'
+		'punctuation'
 	]
 	anchors:
 		0:

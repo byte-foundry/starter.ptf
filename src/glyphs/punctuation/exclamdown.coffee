@@ -13,7 +13,7 @@ exports.glyphs['exclamdown'] =
 	tags: [
 		'all',
 		'latin',
-		'uppercase'
+		'punctuation'
 	]
 	anchors:
 		0:

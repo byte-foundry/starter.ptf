@@ -13,7 +13,7 @@ exports.glyphs['approxequal'] =
 	tags: [
 		'all',
 		'latin',
-		'uppercase'
+		'punctuation'
 	]
 	anchors:
 		0:

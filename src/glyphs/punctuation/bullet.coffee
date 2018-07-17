@@ -13,7 +13,7 @@ exports.glyphs['bullet'] =
 	tags: [
 		'all',
 		'latin',
-		'uppercase'
+		'punctuation'
 	]
 	anchors:
 		0:

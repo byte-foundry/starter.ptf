@@ -13,7 +13,7 @@ exports.glyphs['guilsinglleft'] =
 	tags: [
 		'all',
 		'latin',
-		'uppercase'
+		'punctuation'
 	]
 	anchors:
 		0:

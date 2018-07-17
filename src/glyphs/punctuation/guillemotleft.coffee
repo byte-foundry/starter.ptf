@@ -13,7 +13,7 @@ exports.glyphs['guillemotleft'] =
 	tags: [
 		'all',
 		'latin',
-		'uppercase'
+		'punctuation'
 	]
 	anchors:
 		0:
