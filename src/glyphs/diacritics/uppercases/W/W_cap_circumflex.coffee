@@ -16,5 +16,5 @@ exports.glyphs['W_cap_circumflex'] =
 			copy: true
 			parentAnchors:
 				0:
-					x: parentAnchors[2].x
-					y: parentAnchors[2].y
+					x: parentAnchors[0].x
+					y: parentAnchors[0].y

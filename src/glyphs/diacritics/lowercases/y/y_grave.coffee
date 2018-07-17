@@ -2,7 +2,6 @@ exports.glyphs['y_grave'] =
 	unicode: 'ỳ'
 	glyphName: 'ygrave'
 	characterName: 'LATIN SMALL LETTER Y WITH GRAVE'
-	altImg: 'alt-starter-y-0.svg'
 	base: 'y'
 	advanceWidth: base.advanceWidth
 	tags: [

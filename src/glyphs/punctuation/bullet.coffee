@@ -32,3 +32,4 @@ exports.glyphs['bullet'] =
 						width: 0
 						angle: 0
 						distr: 0
+						#TODO

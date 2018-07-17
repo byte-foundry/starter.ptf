@@ -19,6 +19,15 @@ exports.glyphs['l'] =
 		0:
 			x: 0
 			y: 0
+		1: # l caron
+			x: 0
+			y: 0
+		2: # l cedilla
+			x: 0
+			y: 0
+		3: # l midlle dot
+			x: 0
+			y: 0
 	contours:
 		0:
 			skeleton: true

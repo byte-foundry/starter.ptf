@@ -1,4 +1,3 @@
-# TODO: minus and hyphen-minus have the same unicode
 exports.glyphs['minus'] =
 	unicode: '−'
 	glyphName: 'minus'

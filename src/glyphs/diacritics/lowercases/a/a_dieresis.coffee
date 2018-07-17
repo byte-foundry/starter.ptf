@@ -1,9 +1,7 @@
-# TODO: center and make it work
 exports.glyphs['a_dieresis'] =
 	unicode: 'ä'
 	glyphName: 'adieresis'
 	characterName: 'LATIN SMALL LETTER A WITH DIAERESIS'
-	altImg: 'alt-starter-a-0.svg'
 	base: 'a'
 	advanceWidth: base.advanceWidth
 	tags: [

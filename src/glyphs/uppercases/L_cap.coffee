@@ -19,6 +19,15 @@ exports.glyphs['L_cap'] =
 		0:
 			x: 0
 			y: 0
+		1: # L caron
+			x: 0
+			y: 0
+		2: # L cedilla
+			x: 0
+			y: 0
+		3: # L midlle dot
+			x: 0
+			y: 0
 	contours:
 		0:
 			skeleton: true
@@ -32,3 +41,4 @@ exports.glyphs['L_cap'] =
 						width: 0
 						angle: 0
 						distr: 0
+						#TODO

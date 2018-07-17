@@ -16,7 +16,10 @@ exports.glyphs['t'] =
 		'uppercase'
 	]
 	anchors:
-		0:
+		0: # caron
+			x: 0
+			y: 0
+		1: # cedilla
 			x: 0
 			y: 0
 	contours:

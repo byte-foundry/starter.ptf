@@ -19,6 +19,12 @@ exports.glyphs['n'] =
 		0:
 			x: 0
 			y: 0
+		1: # n cedilla
+			x: 0
+			y: 0
+		2: # ŋ component
+			x: 0
+			y: 0
 	contours:
 		0:
 			skeleton: true

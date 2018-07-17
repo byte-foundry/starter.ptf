@@ -19,7 +19,7 @@ exports.glyphs['D_cap'] =
 		0:
 			x: 0
 			y: 0
-		1:
+		1: # D croat
 			x: 0
 			y: 0
 	contours:
@@ -35,3 +35,4 @@ exports.glyphs['D_cap'] =
 						width: 0
 						angle: 0
 						distr: 0
+						#TODO

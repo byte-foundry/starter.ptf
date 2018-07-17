@@ -19,6 +19,9 @@ exports.glyphs['u'] =
 		0:
 			x: 0
 			y: 0
+		1: # u ogonek
+			x: 0
+			y: 0
 	contours:
 		0:
 			skeleton: true

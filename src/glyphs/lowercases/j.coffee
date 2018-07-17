@@ -2,34 +2,19 @@ exports.glyphs['j'] =
 	unicode: 'j'
 	glyphName: 'j'
 	characterName: 'LATIN SMALL LETTER J'
-	ot:
-		advanceWidth: 100
-	transforms: Array(
-		['skewX',( slant ) / 180 * Math.PI]
-	)
-	parameters:
-		spacingLeft: 50 * spacing + 0
-		spacingRight: 50 * spacing + 0
+	base: 'dotlessj'
+	advanceWidth: base.advanceWidth
 	tags: [
 		'all',
 		'latin',
-		'uppercase'
+		'lowercase',
+		'diacritic'
 	]
-	anchors:
+	components:
 		0:
-			x: 0
-			y: 0
-	contours:
-		0:
-			skeleton: true
-			closed: false
-			nodes:
+			base: 'dot'
+			copy: true
+			parentAnchors:
 				0:
-					x: 0
-					y: 0
-					typeOut: 'line'
-					expand:
-						width: 0
-						angle: 0
-						distr: 0
-						#TODO
+					x: parentAnchors[0].x
+					y: parentAnchors[0].y

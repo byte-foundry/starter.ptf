@@ -2,34 +2,19 @@ exports.glyphs['i'] =
 	unicode: 'i'
 	glyphName: 'i'
 	characterName: 'LATIN SMALL LETTER I'
-	ot:
-		advanceWidth: 100
-	transforms: Array(
-		['skewX',( slant ) / 180 * Math.PI]
-	)
-	parameters:
-		spacingLeft: 50 * spacing + 0
-		spacingRight: 50 * spacing + 0
+	base: 'dotlessi'
+	advanceWidth: base.advanceWidth
 	tags: [
 		'all',
 		'latin',
-		'uppercase'
+		'lowercase',
+		'diacritic'
 	]
-	anchors:
+	components:
 		0:
-			x: 0
-			y: 0
-	contours:
-		0:
-			skeleton: true
-			closed: false
-			nodes:
+			base: 'dot'
+			copy: true
+			parentAnchors:
 				0:
-					x: 0
-					y: 0
-					typeOut: 'line'
-					expand:
-						width: 0
-						angle: 0
-						distr: 0
-						#TODO
+					x: parentAnchors[0].x
+					y: parentAnchors[0].y

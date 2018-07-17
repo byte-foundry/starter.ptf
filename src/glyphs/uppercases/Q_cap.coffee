@@ -2,7 +2,6 @@ exports.glyphs['Q_cap'] =
 	unicode: 'Q'
 	glyphName: 'Q'
 	characterName: 'LATIN CAPITAL LETTER Q'
-	altImg: 'alt-starter-Q-0.svg'
 	ot:
 		advanceWidth: 100
 	transforms: Array(
@@ -33,3 +32,4 @@ exports.glyphs['Q_cap'] =
 						width: 0
 						angle: 0
 						distr: 0
+						#TODO

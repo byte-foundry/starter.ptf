@@ -19,6 +19,9 @@ exports.glyphs['s'] =
 		0:
 			x: 0
 			y: 0
+		1: # s cedilla
+			x: 0
+			y: 0
 	contours:
 		0:
 			skeleton: true

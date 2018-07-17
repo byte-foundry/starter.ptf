@@ -2,7 +2,6 @@ exports.glyphs['G_cap_dotaccent'] =
 	unicode: 'Ġ'
 	glyphName: 'Gdotaccent'
 	characterName: 'LATIN CAPITAL LETTER G WITH DOT ABOVE'
-	altImg: 'alt-starter-G-0.svg'
 	base: 'G_cap'
 	advanceWidth: base.advanceWidth
 	tags: [

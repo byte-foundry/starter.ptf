@@ -2,7 +2,6 @@ exports.glyphs['a_ring'] =
 	unicode: 'å'
 	glyphName: 'aring'
 	characterName: 'LATIN SMALL LETTER A WITH RING ABOVE'
-	altImg: 'alt-starter-a-0.svg'
 	base: 'a'
 	advanceWidth: base.advanceWidth
 	tags: [

@@ -19,6 +19,12 @@ exports.glyphs['N_cap'] =
 		0:
 			x: 0
 			y: 0
+		1: # N cedilla
+			x: 0
+			y: 0
+		2: # Ŋ component
+			x: 0
+			y: 0
 	contours:
 		0:
 			skeleton: true
@@ -32,3 +38,4 @@ exports.glyphs['N_cap'] =
 						width: 0
 						angle: 0
 						distr: 0
+						#TODO

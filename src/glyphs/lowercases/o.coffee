@@ -19,6 +19,8 @@ exports.glyphs['o'] =
 		0:
 			x: 0
 			y: 0
+			left: 0
+			right: 0
 	contours:
 		0:
 			skeleton: true

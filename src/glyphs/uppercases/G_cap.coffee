@@ -19,6 +19,9 @@ exports.glyphs['G_cap'] =
 		0:
 			x: 0
 			y: 0
+		1: #G cedilla
+			x: 0
+			y: 0
 	contours:
 		0:
 			skeleton: true
@@ -32,3 +35,4 @@ exports.glyphs['G_cap'] =
 						width: 0
 						angle: 0
 						distr: 0
+						#TODO

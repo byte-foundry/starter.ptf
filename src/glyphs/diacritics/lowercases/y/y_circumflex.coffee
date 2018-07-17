@@ -2,7 +2,6 @@ exports.glyphs['y_circumflex'] =
 	unicode: 'ŷ'
 	glyphName: 'ycircumflex'
 	characterName: 'LATIN SMALL LETTER Y WITH CIRCUMFLEX'
-	altImg: 'alt-starter-y-0.svg'
 	base: 'y'
 	advanceWidth: base.advanceWidth
 	tags: [

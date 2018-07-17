@@ -19,6 +19,8 @@ exports.glyphs['O_cap'] =
 		0:
 			x: 0
 			y: 0
+			left: 0
+			right: 0
 	contours:
 		0:
 			skeleton: true
@@ -32,3 +34,4 @@ exports.glyphs['O_cap'] =
 						width: 0
 						angle: 0
 						distr: 0
+						#TODO
